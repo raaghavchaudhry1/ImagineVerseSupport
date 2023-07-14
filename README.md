@@ -3,33 +3,37 @@
 
 Privacy Policy for ImagineVerse
 
-At ImagineVerse, we understand the importance of your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines how we collect, use, and protect the data you provide while using our augmented reality app, ImagineVerse. By accessing or using our app, you consent to the practices described in this policy.
+At ImagineVerse, protecting your privacy and personal information is our top priority. This Privacy Policy explains how we collect, use, and safeguard the data you provide while using our augmented reality app, ImagineVerse. By accessing or using our app, you consent to the practices described in this policy.
 
-Collection of Information:
-We only collect minimal information necessary for the functioning of ImagineVerse. When you sign up for an account, we ask for your email address and custom-made ID. We do not collect any other personal information, such as your name, address, or phone number.
+Information Collection:
+When you sign up for an account on ImagineVerse, we request your email address and custom-made ID. Additionally, when you choose to scan a room using our app, we collect user-generated content in the form of a 3D model of the scanned room. This user-generated content is associated solely with your account and remains visible only to you. We do not share this content with other users of ImagineVerse.
 
 Use of Information:
-We use the email addresses you provide solely for the purpose of managing your ImagineVerse account. We may occasionally send you important notifications, updates, or information regarding our services. We will not use your email address for any other purposes, and we will not sell, share, or disclose it to any third parties without your explicit consent.
+The email addresses you provide during account registration are solely used for managing your ImagineVerse account. We may occasionally send you important notifications, updates, or information related to our services. We will not use your email address for any other purposes, and we will not sell, share, or disclose it to third parties without your explicit consent.
+
+User-Generated Content:
+The user-generated content, specifically the 3D models of scanned rooms, is associated with your account and stored on a third-party platform called Echo-3D. We use Echo-3D to securely store and manage these models on our behalf. However, Echo-3D does not have access to information about which users the 3D models are associated with. This ensures that your privacy is maintained when it comes to sharing your user-generated content.
 
 Data Security:
-We take the security of your information seriously. We implement industry-standard security measures to protect your personal data from unauthorized access, alteration, or disclosure. However, please note that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+We take data security seriously and have implemented industry-standard measures to protect your personal information from unauthorized access, alteration, or disclosure. We work diligently to maintain the highest level of security. However, please note that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
+Account Deletion and User-Generated Data:
+If you decide to delete your ImagineVerse account, you can simply send us an email requesting the deletion. Upon receiving such a request, we will promptly remove your account and all associated user-generated data from our records. This includes the deletion of your 3D models stored on Echo-3D. We prioritize your privacy and ensure that your user-generated data is promptly and permanently removed.
 
 Third-Party Services:
-ImagineVerse may contain links to third-party websites or services. We are not responsible for the privacy practices or content of such third parties. We encourage you to review the privacy policies of those third parties before providing any personal information.
+ImagineVerse utilizes a third-party platform, Echo-3D, to securely store and manage user-generated 3D models. While we have taken precautions to ensure the privacy and security of your data on Echo-3D, we encourage you to review their privacy policy to understand how they handle and protect your information.
 
 Compliance with Laws:
-We comply with all applicable laws and regulations regarding data protection and privacy. If we are required by law to disclose any information you have provided, we will make reasonable efforts to notify you unless prohibited by law.
-
-Children's Privacy:
-ImagineVerse is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe that we have inadvertently collected personal information from a child under 13, please contact us immediately, and we will promptly remove the information from our records.
+We adhere to all applicable laws and regulations regarding data protection and privacy. If required by law, we will disclose information you have provided, making reasonable efforts to notify you unless prohibited by law.
 
 Changes to the Privacy Policy:
-We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised policy in the ImagineVerse app. It is your responsibility to review this policy periodically to stay informed about our data practices.
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will take effect immediately upon posting the revised policy within the ImagineVerse app. It is your responsibility to periodically review this policy to stay informed about our data practices.
 
 Contact Us:
-If you have any questions, concerns, or suggestions regarding our Privacy Policy or ImagineVerse app, please contact us at [email address].
+For any questions, concerns, or requests regarding our Privacy Policy or ImagineVerse app, please contact us at [email address].
 
-By using ImagineVerse, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this Privacy Policy. We appreciate your trust in us and assure you that we will handle your personal information with utmost care and respect your privacy.
+By using ImagineVerse, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this Privacy Policy. We appreciate your trust in us and assure you that we handle your personal information with the utmost care, respecting your privacy, and striving to provide you with a secure and enjoyable experience.
+
 
 ## Support
 
